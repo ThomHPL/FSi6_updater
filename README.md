@@ -14,14 +14,14 @@ custom tools and updater for the FlySky i6 transmitter
 
 Install:
 
-place your transmitter in firmware update mode, then launch run.bat
-
+Place your transmitter in firmware update mode, then launch run.bat.
+Type:
 >> open 1 115200 (replace the 1 with your com port number)
 
 >> reset (to test the communication)
 
-replace your TX in firmware update mode
-
+Place your TX in firmware update mode again.
+Type:
 >> flash patch2.bin
 
 wait till page 0xF300, if your TX restart on its own, the update should be properly done
