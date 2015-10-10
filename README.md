@@ -16,8 +16,9 @@ Install:
 
 place your transmitter in firmware update mode, then launch run.bat
 
->> open 1 115200 (replace the 1 with your com port number)
->> reset (to test the communication)
+>> open 1 115200 (replace the 1 with your com port number) <<
+
+>> reset (to test the communication) <<
 
 replace your TX in firmware update mode
 
