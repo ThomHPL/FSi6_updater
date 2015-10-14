@@ -11,6 +11,7 @@ custom tools and updater for the FlySky i6 transmitter
 
 
 !!! Please make sure the firmware file comes from basejunction.wordpress.com !!!
+Type help to a description of the available commands
 
 Install:
 
@@ -22,6 +23,6 @@ Type:
 
 Place your TX in firmware update mode again.
 Type:
->> flash patch2.bin
+>> flash *filename*.bin
 
 wait till page 0xF300, if your TX restart on its own, the update should be properly done
